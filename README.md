@@ -1,5 +1,6 @@
 # nukebottemplate
  a simple nuke bot template i made out of boredom. this may get your discord account termed and that's not my fault.
+ btw, no, i  wont update it to v13.
 ## how to use it
 - set up a bot (i assume you know how to do that)
 - ``npm install`` to install packages
